@@ -9,5 +9,4 @@ resources:
 
 commonLabels:
   app: minio
-  managed-by: argocd
   environment: production

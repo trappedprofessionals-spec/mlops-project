@@ -9,5 +9,4 @@ resources:
 
 commonLabels:
   app: mlflow
-  managed-by: argocd
   environment: production

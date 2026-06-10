@@ -8,5 +8,4 @@ resources:
 
 commonLabels:
   app: postgres
-  managed-by: argocd
   environment: production
